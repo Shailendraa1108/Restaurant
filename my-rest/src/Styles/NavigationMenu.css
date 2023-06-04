@@ -1,0 +1,44 @@
+.Navigation-bar {
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.Navigation-bar li {
+   margin: 0px 20px;
+}
+
+.Navigation-bar li a {
+   text-decoration: none;
+   color: white;
+}
+
+.Menunaviagation-bar {
+   text-align: center;
+
+   list-style: none;
+
+
+}
+.active{
+   font-weight: bold !important;
+   color: goldenrod !important;
+}
+
+.Menunaviagation-bar li {
+
+ margin-top: 20px;
+
+
+
+}
+
+.Menunaviagation-bar li a {
+
+   font-size: 1.4rem;
+   text-decoration: none;
+
+
+
+}
